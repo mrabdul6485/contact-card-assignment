@@ -1,0 +1,50 @@
+/* ROBOTO GOOGLE FONTS */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;800&display=swap");
+
+body {
+  padding: 100px;
+  font-family: "Poppins", sans-serif;
+}
+h1,
+h2 {
+  color: rgb(66, 66, 66);
+}
+p {
+  color: rgb(83, 83, 83);
+}
+.left-column {
+  position: relative;
+  left: 20%;
+}
+.profile {
+  height: 150px;
+  width: 150px;
+  margin: 20px;
+}
+.main-text {
+  padding: 0 0 10px 10px;
+  font-weight: 800;
+  font-size: 1.8rem;
+  letter-spacing: 3px;
+}
+.secondary-text {
+  font-weight: 500;
+}
+.social-icons {
+  color: rgb(78, 136, 230);
+  margin: 5px;
+  padding: 2px;
+}
+.border-box {
+  padding: 50px 50px 10px 0;
+  border-bottom: 2px solid #ffd700;
+}
+
+.contact-icons {
+  color: #ffd700;
+  margin: 5px 10px 5px 0px;
+}
+.contact-icons-box {
+  margin: 25px 0 0 0;
+}
